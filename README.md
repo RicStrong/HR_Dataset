@@ -7,12 +7,21 @@ The data was obtained from kaggle: https://www.kaggle.com/rhuebner/human-resourc
 For the Data Dictionary, please see: https://rpubs.com/rhuebner/HRCodebook-13
 
 Data Cleaning
+
 Correlations
+
 Bar Plots
+
 PCA
+
 K Means Clustering
+
 Hierarchical Clustering
+
 Regression Tree for 'Payrate' 
+
 Decision Tree for Terminated Employees
+
 Confusion Matrix
+
 Decision Tree Visualization
